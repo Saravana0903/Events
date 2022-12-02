@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.events-con {
+  display: flex;
+  flex-direction: row;
+}
+.left-con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  flex-wrap: wrap;
+  background-color: rgba(211, 211, 211, 0.445);
+  width: 60%;
+}
+.right-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

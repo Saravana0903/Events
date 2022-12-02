@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.in-con {
+  display: flex;
+  flex-direction: column;
+}
+.icon-register {
+  width: 200px;
+  margin-bottom: 15px;
+}
+.register-btn {
+  color: white;
+  background: blue;
+  padding: 10px;
+  text-align: center;
+  width: auto;
+  height: auto;
+  border: 0px;
+  outline: none;
+}
